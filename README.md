@@ -1,26 +1,17 @@
-# E-Commerce Website
+<h1>Restaurant-Web-Project</h1>
 
 
-Responsive bir e-ticaret websitesi geliştirildi
-
-# Kullanılan Teknolojiler
+HTML ve CSS öğrenmek amaçlı deneme projesidir.
 
 
--HTML
+<h2>Kullanılan Diller </h2>
 
 
--CSS
+.HTML
+.CSS
 
-# Ekran Görüntüleri
-
-
-![](İmages/Ekran%20görüntüsü%202024-03-01%20055015.png)
-
-
-# GIF
-
+<h1>Ekran Görüntüsü </h1>
 
 ![](İmages/Animation.gif)
-# E-Commerce-Web
-# E-Commerce-Web
-# Restaurant-Web-Project
+
+

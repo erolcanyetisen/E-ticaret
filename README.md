@@ -7,7 +7,7 @@ HTML ve CSS öğrenmek amaçlı deneme projesidir.
 <h2>Kullanılan Diller </h2>
 
 
-.HTML
+.HTML <br>
 .CSS
 
 <h1>Ekran Görüntüsü </h1>

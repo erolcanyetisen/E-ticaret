@@ -1,4 +1,4 @@
-<h1>Restaurant-Web-Project</h1>
+<h1>E-Commence Web Site</h1>
 
 
 HTML ve CSS öğrenmek amaçlı deneme projesidir.
@@ -15,7 +15,4 @@ HTML ve CSS öğrenmek amaçlı deneme projesidir.
 ![](İmages/Animation.gif)
 
 
-# E-ticaret
-# E-ticaret
-# E-ticaret
-# E-ticaret
+
